@@ -1,6 +1,6 @@
 function playAudio() {
-  var video = document.getElementById("myVideo");
-  video.play();
+  var audio = document.getElementById("myAudio");
+  audio.play();
 }
 
 playAudio();
